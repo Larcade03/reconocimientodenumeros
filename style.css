@@ -1,0 +1,46 @@
+body {
+  background-color: #FAF3E0;
+  color: #3E3E3E;
+  font-family: 'Georgia', serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #9E6F21;
+  margin-top: 40px;
+}
+
+p {
+  font-size: 1.1rem;
+  color: #5E4B2B;
+}
+
+#bigcanvas {
+  background-color: #FFF8E1;
+  border: 1px solid #D6A75F;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+button {
+  background-color: #D6A75F;
+  color: #FFF;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 10px;
+  margin: 10px;
+  font-size: 1rem;
+  transition: 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #FFF;
+  color: #D6A75F;
+  border: 1px solid #D6A75F;
+}
+
+#resultado {
+  font-size: 5rem;
+  color: #9E6F21;
+}
